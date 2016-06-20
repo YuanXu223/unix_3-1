@@ -23,10 +23,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4507DF341D180D4400A44924 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		453C447C1D1807E000E40159 /* unix_3-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "unix_3-1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		453C447F1D1807E000E40159 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		453C44861D18083800E40159 /* apue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = apue.h; sourceTree = "<group>"; };
-		453C449A1D180BF900E40159 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +43,7 @@
 		453C44731D1807E000E40159 = {
 			isa = PBXGroup;
 			children = (
+				4507DF341D180D4400A44924 /* README */,
 				453C447E1D1807E000E40159 /* unix_3-1 */,
 				453C447D1D1807E000E40159 /* Products */,
 			);
@@ -59,7 +60,6 @@
 		453C447E1D1807E000E40159 /* unix_3-1 */ = {
 			isa = PBXGroup;
 			children = (
-				453C449A1D180BF900E40159 /* README */,
 				453C44861D18083800E40159 /* apue.h */,
 				453C447F1D1807E000E40159 /* main.cpp */,
 			);
@@ -243,6 +243,7 @@
 				453C44851D1807E000E40159 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
