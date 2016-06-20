@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		453C447C1D1807E000E40159 /* unix_3-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "unix_3-1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		453C447F1D1807E000E40159 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		453C44861D18083800E40159 /* apue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = apue.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		453C447E1D1807E000E40159 /* unix_3-1 */ = {
 			isa = PBXGroup;
 			children = (
+				453C44861D18083800E40159 /* apue.h */,
 				453C447F1D1807E000E40159 /* main.cpp */,
 			);
 			path = "unix_3-1";
